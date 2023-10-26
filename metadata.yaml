@@ -1,0 +1,26 @@
+_repo: A-visit-to-the-Roman-catacombs_71927
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Northcote, James Spencer
+    gutenberg_agent_id: '56459'
+    url: http://www.gutenberg.org/2009/agents/56459
+description: ''
+gutenberg_issued: '2023-10-21'
+identifiers:
+  gutenberg: '71927'
+language: en
+pgterms:marc904: https://archive.org/details/visittoromancata00nort
+pgterms:marc905: 20210505095836northcote
+pgterms:marc906: '1891'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bS. Anselms''s Society, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A visit to the Roman catacombs
+url: http://www.gutenberg.org/ebooks/71927
