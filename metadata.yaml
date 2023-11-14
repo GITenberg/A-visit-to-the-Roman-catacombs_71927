@@ -1,11 +1,16 @@
 _repo: A-visit-to-the-Roman-catacombs_71927
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71927-h/images/cover.jpg
 creator:
   author:
     agent_name: Northcote, James Spencer
     gutenberg_agent_id: '56459'
     url: http://www.gutenberg.org/2009/agents/56459
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71927#A-visit-to-the-Roman-catacombs
 gutenberg_issued: '2023-10-21'
 identifiers:
   gutenberg: '71927'
